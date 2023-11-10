@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MultiLayout</string>
+    <string name="t">T</string>
+    <string name="o">O</string>
+    <string name="d">D</string>
+    <string name="todo">TODO</string>
+    <string name="h">H</string>
+    <string name="f">F</string>
+    <string name="u">u</string>
+    <string name="g">G</string>
+    <string name="j">J</string>
+    <string name="dian_pratiwi_08">Dian Pratiwi/08</string>
+</resources>
